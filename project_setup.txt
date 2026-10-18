@@ -1,0 +1,5 @@
+Steps Involved
+1. Importing the dataset into your Aiven database 
+2. Configuring the database connection 
+3. Adding and using the SSL certificate 
+4. Connecting Power BI to your Aiven PostgreSQL database 
